@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Type Felicia",
+    "price": "990.120.000",
+    "detail": "Pasir Jambu,Kec.Sukaraja, Kab. Bogor",
+    "image": "./felicia.png"
+  },
+  {
+    "name": "Type Gloxinia",
+    "price": "1.182.705.000",
+    "detail": "Pasir Jambu, Kec.Sukaraja, Kab. Bogor",
+    "image": "./gloxinia1.jpeg"
+  },
+  {
+    "name": "Type Gladiolus",
+    "price": "1.476.855.000",
+    "detail": "Pasir Jambu, Kec.Sukaraja, Kab. Bogor",
+    "image": "./gladiolus.png"
+  },
+  {
+    "name": "Type Grevillea",
+    "price": "1.121.625.000",
+    "detail": "Pasir Jambu, Kec.Sukaraja, Kab. Bogor",
+    "image": "./grevilea00.webp"
+  },
+  {
+    "name": "Type Arsa",
+    "price": "1.351.950.000",
+    "detail": "Pasir Jambu, Kec.Sukaraja, Kab. Bogor",
+    "image": "./arsa.png"
+  },
+  {
+    "name": "Ruko Michelia",
+    "price": "1.247.058.000",
+    "detail": " Pasir Jambu, Kec.Sukaraja, Kab. Bogort",
+    "image": "./ruko.png"
+  }
+]
